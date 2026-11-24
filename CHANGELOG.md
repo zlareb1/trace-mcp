@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
 
+## [3.44.11](https://github.com/nikolai-vysotskyi/trace-mcp/compare/v3.44.10...v3.44.11) (2026-11-24)
+
+
+### Bug Fixes
+
+* **daemon:** register project PID off the event loop ([#1946](https://github.com/nikolai-vysotskyi/trace-mcp/issues/1946)) ([5235a83](https://github.com/nikolai-vysotskyi/trace-mcp/commit/5235a8349c144f1efb39c350d84bda2465719356))
+
 ## [3.44.10](https://github.com/nikolai-vysotskyi/trace-mcp/compare/v3.44.9...v3.44.10) (2026-11-22)
 
 
